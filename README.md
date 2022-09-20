@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Website preview for the QR code component coding challenge](./design/preview.png)
+![Website preview for the QR code component coding challenge](./images/preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-wABS9fuE9_)
+- [Live Site URL](https://marcosklender.github.io/QR-Code-Component/)
 
 ## My process
 
